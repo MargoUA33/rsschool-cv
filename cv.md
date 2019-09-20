@@ -3,6 +3,7 @@
         email: tanyaregi@mail.ru
         diskord: tanyaPCP#9890
         phone  +380997001153
+        
 ## Summary
 beginner with a big passion to make perfect sites
 ## Skills
