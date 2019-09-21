@@ -1,0 +1,24 @@
+.container-body {
+    max-width: 1020px;
+    margin: 20px auto;
+    padding: 0 100px;
+    border: 1px solid gray;
+    background-color: LightYellow;
+}
+.header {
+    background-color: LightCyan;
+}
+
+.contacts {
+    display: inline-block;
+    width: 600px;
+}
+
+.photo {
+    display: inline-block;
+    width: 330px;
+    
+}
+a {
+    color: green;
+}
