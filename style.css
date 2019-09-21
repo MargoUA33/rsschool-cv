@@ -1,12 +1,12 @@
 .container-body {
     max-width: 1020px;
     margin: 20px auto;
-    padding: 0 100px;
-    border: 1px solid gray;
+    padding: 0 50px;
+    border: 1px solid darkslateblue;
     background-color: LightYellow;
 }
 .header {
-    background-color: LightCyan;
+   margin: 1px;
 }
 
 .contacts {
@@ -17,8 +17,25 @@
 .photo {
     display: inline-block;
     width: 330px;
-    
 }
+
+section{
+    margin-top: 30px;
+}
+
 a {
     color: green;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: darkslateblue;
+    font-size: 2rem;
+    text-decoration: underline; 
+}
+
+h2 {
+    color: darkslateblue;    
 }
