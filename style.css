@@ -1,0 +1,41 @@
+.container-body {
+    max-width: 1020px;
+    margin: 20px auto;
+    padding: 0 50px;
+    border: 1px solid darkslateblue;
+    background-color: LightYellow;
+}
+.header {
+   margin: 1px;
+}
+
+.contacts {
+    display: inline-block;
+    width: 600px;
+}
+
+.photo {
+    display: inline-block;
+    width: 330px;
+}
+
+section{
+    margin-top: 30px;
+}
+
+a {
+    color: green;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: darkslateblue;
+    font-size: 2rem;
+    text-decoration: underline; 
+}
+
+h2 {
+    color: darkslateblue;    
+}
